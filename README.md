@@ -1,6 +1,6 @@
 # Welcome to Perice's NYC Taxi & Limo!
 
-Hi! Thanks for taking the time to read my solution. You can get to the databricks notebook by going to this link. I have made access to it public. 
+Hi! Thanks for taking the time to read my solution. 
 
 
 # How to Run Code 
